@@ -1,0 +1,19 @@
+---
+title: "Desai_review_Mueed"
+author: "Vedika Desai"
+date: "2024-03-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+1. I feel its better to always give a path to access the file directly. As I couldn't d "Run all" directly from the code you provided. But the code definitely works otherwise.  
+
+2. All your codes run well. Graphs look good. 
+
+3. Just another suggestion : You could also upload a folder containing just graphs, maybe in .tiff or .png file. 
+
+Great job!
