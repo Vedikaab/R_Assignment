@@ -10,3 +10,5 @@ Maize: 10 files (1 for each chromosome) with SNPs ordered based on increasing po
 ##Folder3: Visualization: Contains plots. 
 
 #R_assignment.Rmd: Initial version of R Assignment
+
+#Final_R_Assignment.Rmd: Final version of R assignment.
